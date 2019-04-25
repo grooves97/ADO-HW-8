@@ -80,7 +80,7 @@
             // 
             // buttonSubmit
             // 
-            this.buttonSubmit.Location = new System.Drawing.Point(65, 215);
+            this.buttonSubmit.Location = new System.Drawing.Point(48, 191);
             this.buttonSubmit.Name = "buttonSubmit";
             this.buttonSubmit.Size = new System.Drawing.Size(75, 23);
             this.buttonSubmit.TabIndex = 6;
@@ -102,7 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(472, 260);
+            this.ClientSize = new System.Drawing.Size(483, 260);
             this.Controls.Add(this.maskedTextBoxDocument);
             this.Controls.Add(this.buttonSubmit);
             this.Controls.Add(this.labelPurpose);
